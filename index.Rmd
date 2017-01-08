@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "Scott Jacobs"
 ---
 
-Hello, Website!
+I've created this website to share my thoughts and learn through doing. 
